@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Conditionals" Database="" Version="10.0.0">
+  <Project Name="task_Two" Path="qw/qw.project" Active="No"/>
+  <Project Name="task_One" Path="Task_one/Task_one.project" Active="No"/>
+  <Project Name="task_Three" Path="task_Three/task_Three.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="task_Two" ConfigName="Debug"/>
+      <Project Name="task_One" ConfigName="Debug"/>
+      <Project Name="task_Three" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="task_Two" ConfigName="Release"/>
+      <Project Name="task_One" ConfigName="Release"/>
+      <Project Name="task_Three" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

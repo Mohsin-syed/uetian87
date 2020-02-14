@@ -1,0 +1,13 @@
+[{
+  "file": "C:\\Users\\Ali\\Documents\\Conditionals\\task_Three\\main3.cpp",
+  "directory": "C:\\Users\\Ali\\Documents\\Conditionals\\task_Three",
+  "command": "clang  -c C:\\Users\\Ali\\Documents\\Conditionals\\task_Three\\main3.cpp -o C:\\Users\\Ali\\Documents\\Conditionals\\task_Three\\main3.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Ali\\Documents\\Conditionals\\qw\\main2.cpp",
+  "directory": "C:\\Users\\Ali\\Documents\\Conditionals\\qw",
+  "command": "clang  -c C:\\Users\\Ali\\Documents\\Conditionals\\qw\\main2.cpp -o C:\\Users\\Ali\\Documents\\Conditionals\\qw\\main2.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Ali\\Documents\\Conditionals\\Task_one\\main.cpp",
+  "directory": "C:\\Users\\Ali\\Documents\\Conditionals\\Task_one",
+  "command": "clang  -c C:\\Users\\Ali\\Documents\\Conditionals\\Task_one\\main.cpp -o C:\\Users\\Ali\\Documents\\Conditionals\\Task_one\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }]
